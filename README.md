@@ -1,4 +1,10 @@
-> _Fork_ deze leertaak en ga aan de slag. Onderstaande outline ga je gedurende deze taak in jouw eigen GitHub omgeving uitwerken. De instructie vind je in: [docs/INSTRUCTIONS.md](docs/INSTRUCTIONS.md)
+
+# Fix the Flow - Sketchnote
+
+Maak een sketchnote van een online talk met als onderwerp 
+iets uit het Frontend vakgebied van minstens 10minuten.
+
+ 
 
 # Margaret Gould Stewart: How giant websites design for you 
 BIjgaand treft u aan een sketchnote voor de vervangende oopdracht van We
@@ -6,7 +12,45 @@ BIjgaand treft u aan een sketchnote voor de vervangende oopdracht van We
 
 ## Sketchnotes
 <!-- Toon je gemaakte Sketchnotes en geef je plaatje een korte beschrijving -->
-<img="/home/jeanroger/Documents/GitHub/fix-the-flow-sketchnote/sketchnote.jpg">
+<img="/home/jeanroger/Documents/GitHub/fix-the-flow-sketchnote/SketchnoteScr.png" >
+
+ .
+
+## Context
+
+Deze leertaak hoort bij sprint 5 "Fix the Flow". 
+Dit is een deeltaak die je individueel uitvoert. 
+
+
+## Doel van deze opdracht
+ 
+Met deze verslag heb ik geofend bij het maken van een visueel verslag (sketchnote). 
+
+
+## Werkwijze
+
+Opdracht: maak een sketchnote van de talk van Margaret Gould Stewart: How giant websites design for you .
+
+Deze opdracht gaat over de volgende fases van de DLC: [analyseren](#analyseren) en [ontwerpen](#ontwerpen).
+
+### Analyseren
+Ik heb als doel om een sketchnote te maken over de talk 
+van Margaret GOuld Stewart. Ik verwacht dat ik als eerst met de titel ga beginnen. 
+
+
+
+###Ontwerp 
+In de Ontwerp fase ben ik begonnen met schetsen. 
+<details>
+<summary>Aanpak</summary>
+
+   Voor de talk begint.
+   
+   Teken het volgende:
+
+1. Een titel (zie hiervoor de oefening tijdens de workshop).
+2. Een simpel portretje van de persoon die de talk geeft (zie hiervoor de oefening tijdens de workshop).
+3. De datum en tijd.
 ## Licentie
 
 ![GNU GPL V3](https://www.gnu.org/graphics/gplv3-127x51.png)
