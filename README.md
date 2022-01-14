@@ -12,7 +12,7 @@ BIjgaand treft u aan een sketchnote voor de vervangende oopdracht van We
 
 ## Sketchnotes
 <!-- Toon je gemaakte Sketchnotes en geef je plaatje een korte beschrijving -->
-![Sketchnote](SketchnoteScr.png)
+![Sketchnote](SketchnoteFigm.png)
  
 ## Context
 
