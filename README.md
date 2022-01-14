@@ -1,5 +1,5 @@
 
-# Fix the Flow - Sketchnote
+# Fix the Flow - Sketchnote ✍️
 
 Maak een sketchnote van een online talk met als onderwerp 
 iets uit het Frontend vakgebied van minstens 10minuten.
@@ -25,19 +25,20 @@ Dit is een deeltaak die je individueel uitvoert.
 Met deze verslag heb ik geofend bij het maken van een visueel verslag (sketchnote). 
 
 
-## Werkwijze
+## Werkwijze 📌
 
 Opdracht: maak een sketchnote van de talk van Margaret Gould Stewart: How giant websites design for you .
 
 Deze opdracht gaat over de volgende fases van de DLC: [analyseren](#analyseren) en [ontwerpen](#ontwerpen).
 
-### Analyseren
+### Analyseren🔍
 Ik heb als doel om een sketchnote te maken over de talk 
 van Margaret GOuld Stewart. Ik verwacht dat ik als eerst met de titel ga beginnen. 
 
 
 
-###Ontwerp 
+### Ontwerp🎨
+
 In de Ontwerp fase ben ik begonnen met schetsen. 
 <details>
 <summary>Aanpak</summary>
