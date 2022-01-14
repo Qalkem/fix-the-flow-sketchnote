@@ -12,10 +12,8 @@ BIjgaand treft u aan een sketchnote voor de vervangende oopdracht van We
 
 ## Sketchnotes
 <!-- Toon je gemaakte Sketchnotes en geef je plaatje een korte beschrijving -->
-<img="/home/jeanroger/Documents/GitHub/fix-the-flow-sketchnote/SketchnoteScr.png" >
-
- .
-
+![Sketchnote](SketchnoteScr.png)
+ 
 ## Context
 
 Deze leertaak hoort bij sprint 5 "Fix the Flow". 
