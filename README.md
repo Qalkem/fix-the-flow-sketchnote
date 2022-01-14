@@ -1,11 +1,12 @@
 > _Fork_ deze leertaak en ga aan de slag. Onderstaande outline ga je gedurende deze taak in jouw eigen GitHub omgeving uitwerken. De instructie vind je in: [docs/INSTRUCTIONS.md](docs/INSTRUCTIONS.md)
 
-# Titel
-<!-- Geef je opdracht een titel en schrijf in één zin wat het is -->
+# Margaret Gould Stewart: How giant websites design for you 
+BIjgaand treft u aan een sketchnote voor de vervangende oopdracht van We
+❤️web
 
 ## Sketchnotes
 <!-- Toon je gemaakte Sketchnotes en geef je plaatje een korte beschrijving -->
-
+<img="/home/jeanroger/Documents/GitHub/fix-the-flow-sketchnote/sketchnote.jpg">
 ## Licentie
 
 ![GNU GPL V3](https://www.gnu.org/graphics/gplv3-127x51.png)
